@@ -1,0 +1,13 @@
+h1 {
+	font-size: 40px;
+	color: #666;
+	text-decoration: underline;
+}
+li {
+	font-size: 20px;
+	color: #333;
+}
+body {
+	background-color: #96beff;
+	margin-bottom: 20px;
+}
