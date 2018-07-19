@@ -1,13 +1,24 @@
-h1 {
-	font-size: 40px;
-	color: #0061ff;
-	text-decoration: underline;
-	margin-bottom: 20px;
-}
-li {
+body {
+	background-color: #96beff;
 	font-size: 20px;
 	color: #333;
 }
-body {
-	background-color: #96beff;
+h1 {
+	font-size: 40px;
+	color: #0061ff;
+	margin-bottom: 20px;
+}	
+img {
+	margin: 25px;
+	background-color: #bbb;
+	display: block;
+	max-height: 200px;
+	padding: 25px 0px 25px 0px;
+}
+a {
+	color:#333;
+	text-decoration: none;
+}
+li {
+	display: inline;
 }
