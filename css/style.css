@@ -2,6 +2,7 @@ h1 {
 	font-size: 40px;
 	color: #666;
 	text-decoration: underline;
+	margin-bottom: 20px;
 }
 li {
 	font-size: 20px;
@@ -9,5 +10,4 @@ li {
 }
 body {
 	background-color: #96beff;
-	margin-bottom: 20px;
 }
